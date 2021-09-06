@@ -39,19 +39,6 @@ gs.print(grInc.getRowCount()); //Mostra quantos registros tem na tabela passada 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 //-------------------------------------------EXERCICIOS-------------------------------------------//
 
 //INSERT
@@ -235,17 +222,7 @@ treinamentoTi.prototype = {
 //Criar uma função que tenha como objetivo retornar um array de objetos, sendo este compostos por:  
 
 
-//--------------------------DUVIDAS------------------------------//
-//Quando eu coloco o code dentro do initialize?
-
-
-
-campo choice com prioridade 
-campo string 
-
-variavel prioridade select box ( opçoes de 1 a 5)
-
-variavel retorno multlinetext 
+//--------------------------------------------------------//
 
 
 var ga = new GlideAjax('HelloWorld');
